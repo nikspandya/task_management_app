@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  app:
+    build:
+      dockerfile: Dockerfile
+      context: ./backend
+    ports:
+      - "8601:8601"
+    command: run.py
