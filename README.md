@@ -10,7 +10,7 @@ This is a task management backend API
 
 
 # Running backend API using docker
-Install [docker](https://docs.docker.co) and [docker compose](https://docs.docker.com/compose/).
+Install [docker](https://docs.docker.com) and [docker compose](https://docs.docker.com/compose).
 
 Then run the following cmd from the root folder
 
